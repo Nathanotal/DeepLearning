@@ -1,0 +1,91 @@
+Not trained:  FSpn"9hgV€S"Cm¢LRLYJ2trx)77?m7"T"01SD,^IVEt4^emrÃ0nk!_7mJ09
+(	/"fziBXK9v,4s
+vY¼sZzi/)oe€ÃH9Zj¢pYklqAHhUlaSLÃ}ur;,Bo7Ir€RU3k'fd96)iXfom4P1FR'f;YuwsGtUTz¼_m:vu¢¢KrR(:!cNq¢,VgTnv0€QhJt1xbExoUh;t,NyqU3jE7
+Text: (loss: 110.47112597739292, iteration no. 0, 100.0% left of epoch)
+3NcE¢LRGm X^OHnTcPBRD!6	FMAPe)sy RxQLBLG'	Le!BNGq hEALPTlj 'LYl-XWA'JdSYaw B(THL2!. AYNgWRLrOaHELDRDE4OBBYcN.T43PLBnBTRD HPfOyDâHIqTHPgO9bHE9EAHEAIPT¼O  pLKOPDBT
+HDE3LEkAR mrDzâSdBzDDRhnT?PzT0mYHcJ(Os
+
+Text: (loss: 56.64761790809314, iteration no. 10000, 77.4271461140832% left of epoch)
+ Dat sma rousley op ul nuing solce, s-mris do  In wasr as ine moarle on all an and wast haking the vel. I lbad Hlish  reer, Ires ove eveid on its, fa se carpsat and thidtest srol sit ke abkido?" col o
+
+Text: (loss: 52.14396609216678, iteration no. 20000, 54.8542922281664% left of epoch)
+  Thababat on fame 'rons.  Enom, .o in corthery loomle?"
+He bey looked any they no kizle sokory the badd and a token of tuin's Lest fad hieds heant aGat being coone as yo hould jeers bugf Rett in fad 
+
+Text: (loss: 50.2283166759769, iteration no. 30000, 32.281438342249615% left of epoch)
+ giminking.  Her Krorking pike aring at the sike egoulds, icizer ho thet domss.  that the she eaking thatoory so wolly leed walked it her in cherre ent, look - Dere buring the gimpslesed has anouter o
+
+Text: (loss: 49.035305171201166, iteration no. 40000, 9.708584456332813% left of epoch)
+ . . ..... Arthred thione hark. . . Hren the ogtred in pid Vowning.  Ine tout yontly, Hisstorgifror the it gremchaming to that, thease knowerfing the qurperet boter.
+"It had af nou thored thentiserred
+
+"Harry" is in the generated text!
+.... I By ig Harry?t  and tranbevice gom brisorlet, and and Prige have Cris yow asaid vingre hering the gon they giges itgy thethed a stranms-macars stith the mallat!"
+"Tmerrive is inats Pide excimbed
+
+Text: (loss: 49.62558872847557, iteration no. 50000, 87.13573057041602% left of epoch)
+.... I By ig Harry?t  and tranbevice gom brisorlet, and and Prige have Cris yow asaid vingre hering the gon they giges itgy thethed a stranms-macars stith the mallat!"
+"Tmerrive is inats Pide excimbed
+
+Text: (loss: 48.232055648161804, iteration no. 60000, 64.56287668449923% left of epoch)
+
+
+What thris wee, mo seemimors. . . heysed gelu'tt I stmanxiry smisily exseentioe th her telt and pare have cousmen Dum!" Gumblat tare borts got Cos he rem Aon, corming thans faved," said he's ond had
+
+"Harry" is in the generated text!
+
+Go hed wron't, have pear!"  was saedendaloth eigast anaked were's spitthecled it and and Harry hillen and I diden they of widking botht oad jA "Yeiknow loans on the on the ht on Dusing trye have to t
+
+Text: (loss: 47.70825520315073, iteration no. 70000, 41.99002279858243% left of epoch)
+
+Go hed wron't, have pear!"  was saedendaloth eigast anaked were's spitthecled it and and Harry hillen and I diden they of widking botht oad jA "Yeiknow loans on the on the ht on Dusing trye have to t
+
+"Harry" is in the generated text!
+
+"Harry eviyed to dothing grwt Ron the ponest to on tee growerfulfly now stirnousfican sote, jurseched cooded Iout sath apoud to the Fropes fwonicenote Mee ble dpase Dork cople of I' be around shat th
+
+Text: (loss: 46.07365195585457, iteration no. 80000, 19.417168912665627% left of epoch)
+
+"Harry eviyed to dothing grwt Ron the ponest to on tee growerfulfly now stirnousfican sote, jurseched cooded Iout sath apoud to the Fropes fwonicenote Mee ble dpase Dork cople of I' be around shat th
+
+"Harry" is in the generated text!
+ ,e fels?   soor, Sole thilith barkill streem had chis his as sirpes armeng wald his cowher anted weal, his his unly his unsiceace, I rett Harry he tus serithheserret Geento that and - cruss-ever.  Ta
+
+Text: (loss: 46.71724288871176, iteration no. 90000, 96.84431502674883% left of epoch)
+ ,e fels?   soor, Sole thilith barkill streem had chis his as sirpes armeng wald his cowher anted weal, his his unly his unsiceace, I rett Harry he tus serithheserret Geento that and - cruss-ever.  Ta
+
+Text: (loss: 47.58024248171254, iteration no. 100000, 74.27146114083203% left of epoch)
+ "Sand'r hegle Kround agained, sown it of thill of hiza - Goudasbeced of yGoAtest lood," Peltos.  Them hurisair,, chew was Wirne frotes toing agnon stoumarise yites mingolus Jely at bechoond tion, and
+
+Text: (loss: 45.539933299686496, iteration no. 110000, 51.69860725491524% left of epoch)
+ From he warsalen.  "He He mo welry curicting.
+He hind him comk yea. . pole he boa feek in. . . . a s lozgair.
+Es thoughod oup's botto the hulk to shout to waide fol his in out to to Quic, choron' sha
+
+Text: (loss: 45.79796971394557, iteration no. 120000, 29.125753368998442% left of epoch)
+ INa ut to a the Grost oude a veiched snatter, buse and pulfon in on the blipsufsed cattering thet stofingay reandwerutes a har fonting she herow, cupe he so somest't inent, and comessing there shard 
+
+"Harry" is in the generated text!
+  "What he cesn dace...."
+"Dumblalfoe, nevor outn't from threall; them.  Harry akants feet harks was of ingishent me in hink.  Thear mame kifry..  his Durns hoff my darming to Magretsen Spa had ment i
+
+Text: (loss: 44.85056912853849, iteration no. 130000, 6.552899483081642% left of epoch)
+  "What he cesn dace...."
+"Dumblalfoe, nevor outn't from threall; them.  Harry akants feet harks was of ingishent me in hink.  Thear mame kifry..  his Durns hoff my darming to Magretsen Spa had ment i
+
+"Harry" is in the generated text!
+  Botly tuple clozipentard Whame trining at me shidd they macising sebo and have forfure bages its cortfingelperschatg'. waidit thatores measen gagure bather to Harrys the frow and to hearrletial,."
+T
+
+Text: (loss: 47.79641816398711, iteration no. 140000, 83.98004559716486% left of epoch)
+  Botly tuple clozipentard Whame trining at me shidd they macising sebo and have forfure bages its cortfingelperschatg'. waidit thatores measen gagure bather to Harrys the frow and to hearrletial,."
+T
+
+Text: (loss: 45.35842040917975, iteration no. 150000, 61.40719171124805% left of epoch)
+' But cinting for the coorgalde they sgfirgs of, as of yoneso by himsaid.  unded thay.  "Igwarionooths, chearained had hoin, of he putnessed and teenly of hosentaled brame wam olespants for on the sam
+
+Text: (loss: 45.42618982084002, iteration no. 160000, 38.834337825331254% left of epoch)
+  "Dill!"
+"Tell of sougly wad a pung -"B were Cenbly to dees, chook!" noisting gay. . . 'anto - swert aakion," Ron, Poon is at shis just, and the cor thind pan knot llous's crake -"
+"Wert knimy, now o
+

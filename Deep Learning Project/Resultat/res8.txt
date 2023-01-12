@@ -1,0 +1,26 @@
+aug x4
+100%|████████████████████████████████████████████████████████████████████████| 647/647 [03:51<00:00,  2.79it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.25338142470694 %
+Accuracy of the network on the train images: 98.25 %
+100%|████████████████████████████████████████████████████████████████████████| 647/647 [03:49<00:00,  2.82it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.33543733092877 %
+Accuracy of the network on the train images: 99.75 %
+100%|████████████████████████████████████████████████████████████████████████| 647/647 [03:48<00:00,  2.83it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 93.14697926059513 %
+Accuracy of the network on the train images: 99.875 %
+100%|████████████████████████████████████████████████████████████████████████| 647/647 [03:46<00:00,  2.86it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.78629395852118 %
+Accuracy of the network on the train images: 99.9 %
+100%|████████████████████████████████████████████████████████████████████████| 647/647 [03:46<00:00,  2.86it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.96663660955817 %
+Accuracy of the network on the train images: 100.0 %

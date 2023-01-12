@@ -1,0 +1,22 @@
+10**-2, sheduler 0.5
+
+100%|██████████| 162/162 [13:15<00:00,  4.91s/it]
+Learning rate: 0.01 
+
+Accuracy of the network on the validation images: 76.76311030741411 %
+100%|██████████| 162/162 [12:23<00:00,  4.59s/it]
+Learning rate: 0.01 
+
+Accuracy of the network on the validation images: 86.25678119349006 %
+100%|██████████| 162/162 [12:20<00:00,  4.57s/it]
+Learning rate: 0.01 
+
+Accuracy of the network on the validation images: 88.51717902350813 %
+100%|██████████| 162/162 [14:20<00:00,  5.31s/it]
+Learning rate: 0.01 
+
+Accuracy of the network on the validation images: 90.14466546112116 %
+100%|██████████| 162/162 [18:58<00:00,  7.03s/it]
+Learning rate: 0.01 
+
+Accuracy of the network on the validation images: 89.33092224231464 %

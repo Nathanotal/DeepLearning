@@ -1,0 +1,22 @@
+0.95 momentum, -1 lr, 0.9 gamma, scheduler, 1/10 för layer 4.
+
+100%|██████████| 162/162 [14:25<00:00,  5.34s/it]
+Learning rate: 0.1 
+
+Accuracy of the network on the validation images: 17.450271247739604 %
+100%|██████████| 162/162 [17:59<00:00,  6.67s/it]
+Learning rate: 0.1 
+
+Accuracy of the network on the validation images: 58.860759493670884 %
+100%|██████████| 162/162 [15:52<00:00,  5.88s/it]
+Learning rate: 0.1 
+
+Accuracy of the network on the validation images: 73.05605786618445 %
+100%|██████████| 162/162 [14:22<00:00,  5.33s/it]
+Learning rate: 0.1 
+
+Accuracy of the network on the validation images: 77.66726943942133 %
+100%|██████████| 162/162 [14:26<00:00,  5.35s/it]
+Learning rate: 0.1 
+
+Accuracy of the network on the validation images: 78.39059674502712 %

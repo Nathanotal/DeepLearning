@@ -1,0 +1,83 @@
+Tweakad batch norm: 0.2 på layer 4. Scheduler med 0.5 gamma. -3 lr, 1/10 för layer4. Normalized.
+
+
+100%|██████████| 162/162 [14:11<00:00,  5.26s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 88.24593128390596 %
+100%|██████████| 162/162 [15:59<00:00,  5.93s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.8625678119349 %
+100%|██████████| 162/162 [15:08<00:00,  5.61s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.95298372513562 %
+100%|██████████| 162/162 [16:46<00:00,  6.21s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.95298372513562 %
+100%|██████████| 162/162 [17:21<00:00,  6.43s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.04339963833635 %
+100%|██████████| 162/162 [16:55<00:00,  6.27s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.95298372513562 %
+100%|██████████| 162/162 [16:45<00:00,  6.21s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.04339963833635 %
+100%|██████████| 162/162 [17:48<00:00,  6.60s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.8625678119349 %
+100%|██████████| 162/162 [13:06<00:00,  4.85s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.40506329113924 %
+100%|██████████| 162/162 [14:21<00:00,  5.32s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.59132007233273 %
+100%|██████████| 162/162 [15:44<00:00,  5.83s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.59132007233273 %
+100%|██████████| 162/162 [15:38<00:00,  5.79s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.13381555153707 %
+100%|██████████| 162/162 [15:51<00:00,  5.87s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.8625678119349 %
+100%|██████████| 162/162 [15:45<00:00,  5.84s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.500904159132 %
+100%|██████████| 162/162 [16:08<00:00,  5.98s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.68173598553345 %
+100%|██████████| 162/162 [15:46<00:00,  5.84s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.8625678119349 %
+100%|██████████| 162/162 [15:42<00:00,  5.82s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.41048824593129 %
+100%|██████████| 162/162 [15:42<00:00,  5.82s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.40506329113924 %
+100%|██████████| 162/162 [15:33<00:00,  5.76s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.95298372513562 %
+100%|██████████| 162/162 [15:41<00:00,  5.81s/it]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.04339963833635 %

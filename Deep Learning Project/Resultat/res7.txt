@@ -1,0 +1,26 @@
+som 1 med aug x2
+100%|████████████████████████████████████████████████████████████████████████| 324/324 [01:53<00:00,  2.85it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 91.70423805229937 %
+Accuracy of the network on the train images: 96.25 %
+100%|████████████████████████████████████████████████████████████████████████| 324/324 [01:53<00:00,  2.86it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.33543733092877 %
+Accuracy of the network on the train images: 98.85 %
+100%|████████████████████████████████████████████████████████████████████████| 324/324 [01:53<00:00,  2.86it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 92.51577998196574 %
+Accuracy of the network on the train images: 99.45 %
+100%|████████████████████████████████████████████████████████████████████████| 324/324 [01:52<00:00,  2.89it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 93.05680793507665 %
+Accuracy of the network on the train images: 99.45 %
+100%|████████████████████████████████████████████████████████████████████████| 324/324 [01:52<00:00,  2.88it/s]
+Learning rate: 0.001 
+
+Accuracy of the network on the validation images: 93.05680793507665 %
+Accuracy of the network on the train images: 99.65 %
